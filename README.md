@@ -2,7 +2,7 @@ if you havent read DITF yet you totally [should](https://boggio.net/reader/ditf)
 <br>
 All of the graphics here are from there! They're not particularly in order but..shh....
 <br>
-I ... grabbed this url so fast. September 5th... IM SO SCAREDDDDDDDDDDDDDDDD
+I ... grabbed this url so fast... IM SO SCAREDDDDDDDDDDDDDDDD
 
 ---
 
