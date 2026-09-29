@@ -38,15 +38,14 @@ I AM VIOLENTLY AUTISTIC AND THIS IS GOING TO BE HYPERLASER THEMED BUT FOR NOW IT
       <td>
       <details>
         <summary> $\color{#E1F5F4}{\textsf{art cred}}$ </summary>
-        pfp : skrrra (tmblr)
-        <br> butterflies : spectranl (twt) <img src="https://file.garden/ZfRta4uUh3asFRHD/yi%20sang%20jesus/G7bAB1PXAAA3us7.png" height="20" > <img src="https://file.garden/ZfRta4uUh3asFRHD/yi%20sang%20jesus/G7bAB1jXwAESqd3.png" height="20" >
-        <br> art : gotanonobus & k1ml_999 (twt)
+        pfp : Octylish (tmblr/twt/tt)
+        <br> art : protocol507 (tmblr/twt/tt) &
       </details>
          </td> 
       <td>
       <details>
         <summary> $\color{#807E92}{\textsf{friends...}}$ </summary>
-       <a href="https://github.com/lovelettr">Lovelettr</a> <a href="https://github.com/RHY5-W1NZ">RHY5-W1NZ</a> <a href="https://github.com/ROTTINGMOON">ROTTINGMOON</a> <a href="https://github.com/theknocker">theknocker</a> <a href="https://github.com/Circuitsboard">Circuitsboard <3</a>
+       <a href="https://github.com/lovelettr">Lovelettr</a> <a href="https://github.com/RHY5-W1NZ">RHY5-W1NZ</a> <a href="https://github.com/ROTTINGMOON">ROTTINGMOON</a> <a href="https://github.com/Circuitsboard">Circuitsboard <3</a>
       </details>
          </td>    
       </table>
