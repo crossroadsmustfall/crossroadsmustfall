@@ -39,7 +39,7 @@ I AM VIOLENTLY AUTISTIC AND THIS IS GOING TO BE HYPERLASER THEMED BUT FOR NOW IT
       <details>
         <summary> $\color{#E1F5F4}{\textsf{art cred}}$ </summary>
         pfp : Octylish (tmblr/twt/tt)
-        <br> art : protocol507 (tmblr/twt/tt) &
+        <br> art : protocol507 (tmblr/twt/tt) & el-pada (tmblr)
       </details>
          </td> 
       <td>
