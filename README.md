@@ -9,7 +9,6 @@ I AM VIOLENTLY AUTISTIC AND THIS IS GOING TO BE HYPERLASER THEMED BUT FOR NOW IT
     <tr align="center"></tr>
       <th>
           $\color{#e9f7ec}{\textsf{"}}$ $\color{#E1F5F4}{\textsf{𝚃𝚑𝚎}}$ $\color{#B8C3CB}{\textsf{𝙵𝚒𝚛𝚜𝚝}}$ $\color{#807E92}{\textsf{𝙳𝚎𝚊𝚝𝚑}}$ $\color{#4E4160}{\textsf{𝙺𝚗𝚎𝚕𝚕.}}$ $\color{#e9f7ec}{\textsf{"}}$ <br>
-           <br>  
           <img src="https://file.garden/ZfRta4uUh3asFRHD/HTfp7KZbgAAy1LF2.jpg" width="1000px">
 
    </th>
@@ -38,8 +37,8 @@ I AM VIOLENTLY AUTISTIC AND THIS IS GOING TO BE HYPERLASER THEMED BUT FOR NOW IT
       <td>
       <details>
         <summary> $\color{#E1F5F4}{\textsf{art cred}}$ </summary>
-        pfp : Octylish (tmblr/twt/tt)
-        <br> art : protocol507 (tmblr/twt/tt) & el-pada (tmblr)
+        pfp : 0randpahunter (twt)
+        <br> art : sodakettle/soda_stuff & m1ncedm3at (twt)
       </details>
          </td> 
       <td>
