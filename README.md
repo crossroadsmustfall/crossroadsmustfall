@@ -10,7 +10,7 @@ I AM VIOLENTLY AUTISTIC AND THIS IS GOING TO BE HYPERLASER THEMED BUT FOR NOW IT
       <th>
           $\color{#e9f7ec}{\textsf{"}}$ $\color{#E1F5F4}{\textsf{𝚃𝚑𝚎}}$ $\color{#B8C3CB}{\textsf{𝙵𝚒𝚛𝚜𝚝}}$ $\color{#807E92}{\textsf{𝙳𝚎𝚊𝚝𝚑}}$ $\color{#4E4160}{\textsf{𝙺𝚗𝚎𝚕𝚕.}}$ $\color{#e9f7ec}{\textsf{"}}$ <br>
            <br>  
-          <img src="https://file.garden/ZfRta4uUh3asFRHD/tumblr_e39a8bb2f69948b3f061c2cf51f9d684_483484f0_20482.jpg" width="1000px">
+          <img src="https://file.garden/ZfRta4uUh3asFRHD/HTfp7KZbgAAy1LF2.jpg" width="1000px">
 
    </th>
   </table>
@@ -25,7 +25,7 @@ I AM VIOLENTLY AUTISTIC AND THIS IS GOING TO BE HYPERLASER THEMED BUT FOR NOW IT
   <table border="0" align="center">
     <tr align="center"></tr>
       <th>
-          <img src="https://file.garden/ZfRta4uUh3asFRHD/HPnl3Dwa0AAYWL3.jpg" width="1000px" >
+          <img src="https://file.garden/ZfRta4uUh3asFRHD/HBE71-AaMAA-p312.jpg" width="1000px" >
                   $\color{#e9f7ec}{\textsf{"}}$ $\color{#E1F5F4}{\textsf{𝚃𝚑𝚎}}$ $\color{#B8C3CB}{\textsf{𝙵𝚒𝚛𝚜𝚝}}$ $\color{#807E92}{\textsf{𝙳𝚎𝚊𝚝𝚑}}$ $\color{#4E4160}{\textsf{𝙺𝚗𝚎𝚕𝚕.}}$ $\color{#e9f7ec}{\textsf{"}}$ <br>
    </th>
   </table>
